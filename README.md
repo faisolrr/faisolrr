@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Faisol Rizki Romdon</h1>
+<h1 align="center">Hi there 👋, I'm Faisol R. Romdon</h1>
 I graduated in petroleum engineering, currently looking for a software engineering opportunity in this fast-growing technology and exploring my passion for programming.
 
 <br/>
