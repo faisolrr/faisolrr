@@ -22,6 +22,7 @@ _***Skills:***_
       <div style="margin: 10px 5px;">
         <p align="center">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+             <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TypeScript" width="40" height="40"/>
         </p>
       </div>
     </div>
